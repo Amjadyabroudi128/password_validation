@@ -7,3 +7,7 @@ this is how it looks when nothing is entered
 and this is when the password is correct 
 
 ![image](https://github.com/Amjadyabroudi128/password_validation/assets/61939508/fc0938c4-bd64-4d48-9441-fe4d6c485803)
+
+I have also made it responsive 
+
+![image](https://github.com/Amjadyabroudi128/password_validation/assets/61939508/01d7a26f-8a9f-4102-9ac2-8e3492bab424)
