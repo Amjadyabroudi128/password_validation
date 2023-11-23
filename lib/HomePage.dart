@@ -37,7 +37,7 @@ class _HomePageState extends State<HomePage> {
               SizedBox(height: 60.h,),
               Icon(
                 isSuccess? Icons.check : Icons.close,
-                color: isSuccess ? Colors.green : Colors.red,
+                color: isSuccess ? Colors.green : Colors.orange,
                 size: 50.h,
               ),
               SizedBox(height: 60.h,),
