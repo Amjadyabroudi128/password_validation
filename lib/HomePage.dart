@@ -35,6 +35,13 @@ class _HomePageState extends State<HomePage> {
                 size: 50.h,
               ),
               SizedBox(height: 60.h,),
+              Icon(
+                isSuccess? Icons.check : Icons.close,
+                color: isSuccess ? Colors.green : Colors.red,
+                size: 50.h,
+              ),
+              SizedBox(height: 60.h,),
+
               Padding(
                 padding: const EdgeInsets.all(8.0),
                 child: TextField(
@@ -68,6 +75,7 @@ class _HomePageState extends State<HomePage> {
                     setState(() {
                       isSuccess = false;
                     });
+
                     },
                     ),
               )
